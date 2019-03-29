@@ -27,6 +27,9 @@
     * [Hardware construction](assembly-guides/ergo-jr/mechanical-construction.md)
 - [Custom your Ergo Jr](assembly-guides/poppycustom/README.md)
     * [Assemble the Dragster Mini](assembly-guides/poppycustom/dragster-mini/README.md)
+        * [Electronic assembly](assembly-guides/poppycustom/dragster-mini/electronic-assembly.md)
+        * [Motor configuration](assembly-guides/poppycustom/dragster-mini/motor-configuration.md)
+        * [Hardware construction](assembly-guides/poppycustom/dragster-mini/mechanical-construction.md)
 - [Assemble the Poppy Humanoid](assembly-guides/poppy-humanoid/README.md)
 - [Assemble the Poppy Torso](assembly-guides/poppy-torso/README.md)
 
